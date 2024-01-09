@@ -1,0 +1,15 @@
+de\sesosas\simpleproject\simpleannouncer\helper\CurrentConfig.class
+de\sesosas\simpleproject\simpleannouncer\commands\ReloadCommand.class
+de\sesosas\simpleproject\simpleannouncer\objects\AnnouncementObject$1.class
+de\sesosas\simpleproject\simpleannouncer\helper\MessageHandler.class
+de\sesosas\simpleproject\simpleannouncer\objects\AnnouncementObject$SendMessage.class
+de\sesosas\simpleproject\simpleannouncer\helper\PluginHandler.class
+de\sesosas\simpleproject\simpleannouncer\events\SEventHandler$1.class
+de\sesosas\simpleproject\simpleannouncer\events\SEventHandler.class
+de\sesosas\simpleproject\simpleannouncer\classes\AnnouncementHandler.class
+de\sesosas\simpleproject\simpleannouncer\SimpleAnnouncer.class
+de\sesosas\simpleproject\simpleannouncer\objects\AnnouncementObject.class
+de\sesosas\simpleproject\simpleannouncer\events\SEventHandler$2.class
+de\sesosas\simpleproject\simpleannouncer\helper\UpdateHandler.class
+de\sesosas\simpleproject\simpleannouncer\helper\AnnouncementObjectLoader.class
+de\sesosas\simpleproject\simpleannouncer\helper\StringFormater.class
