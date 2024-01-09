@@ -1,6 +1,7 @@
-name: Simple Announcer
+name: SimpleAnnouncer
 version: '${project.version}'
-main: de.sesosas.simpleproject.SimpleAnnouncer
+main: de.sesosas.simpleproject.simpleannouncer.SimpleAnnouncer
+softdepend: [PlaceholderAPI]
 commands:
   sa-reload:
     description: Reload the config
